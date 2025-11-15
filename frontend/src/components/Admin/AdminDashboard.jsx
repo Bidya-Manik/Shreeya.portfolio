@@ -9,7 +9,7 @@ import { Button } from "../ui/button";
 import ChartOne from "../ui/ChartOne"; // Corrected path
 import SkillRadarChart from "../ui/SkillRadarChart"; // Import new components
 import ProjectTimeline from "../ui/ProjectTimeline";
-import FlippyCard from "../ui/FlippyCard";
+import FlippyCard from "../ui/FlippyCard.jsx";
 import GCardM from "../ui/GCardMSG";
 import { motion } from "framer-motion";
 
